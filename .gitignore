@@ -1,5 +1,19 @@
+node_modules
 build
 dist
-lib
-node_modules
+coverage
 package-lock.json
+src/logs/*.log*
+src/static/*
+stats.json
+.DS_STORE
+.vscode
+.module-cache
+.env
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+.eslintcache
